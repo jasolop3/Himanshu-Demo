@@ -1,2 +1,2 @@
 # Himanshu-Demo
-This is my second test repository.
+This is my second test Git repository.
